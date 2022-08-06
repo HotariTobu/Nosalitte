@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Nosalitte
+
+  Created by HotariTobu on 2021/08/17.
+  
+*/
+
+"Cancel" = "Cancel";
+"Compleate" = "Compleate";
+"Add" = "Add";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"ConfirmDelete" = "Delete?";
+
+"Color" = "Color";
+"Width" = "Width";
+
+"NoteName" = "Name of Note";
+
+"ToolWidth" = "Width";
+"ToolColor" = "Color";
+
